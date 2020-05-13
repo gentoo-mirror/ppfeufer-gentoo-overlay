@@ -15,13 +15,15 @@ SLOT="0"
 KEYWORDS="~amd64"
 IUSE=""
 
-DEPEND=""
+DEPEND="
+    >=sys-libs/glibc-2.29
+"
 RDEPEND="${DEPEND}"
 BDEPEND=""
 
 PATCHES=(
-    "${FILESDIR}/${P}-fix-ca-path.patch"
-    "${FILESDIR}/${P}-lib64.patch"
+    "${FILESDIR}/insync-3-fix-ca-path.patch"
+    "${FILESDIR}/insync-3-lib64.patch"
 )
 
 src_unpack() {

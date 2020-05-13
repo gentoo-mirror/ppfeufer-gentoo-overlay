@@ -5,31 +5,30 @@ EAPI=7
 
 inherit rpm xdg-utils
 
-DESCRIPTION="Advanced cross-platform Google Drive client"
+DESCRIPTION="Advanced cross-platform Google Drive and Microsoft OneDrive client"
 HOMEPAGE="https://www.insynchq.com/"
 
-MAGIC="40677"
-MAIN_INSTALLER_STRING="http://s.insynchq.com/builds/insync-${PV}.${MAGIC}-fc30"
-
-SRC_URI="
-    amd64?    ( ${MAIN_INSTALLER_STRING}.x86_64.rpm )"
+SRC_URI="http://s.insynchq.com/builds/insync-${PV}-fc30.x86_64.rpm"
 
 LICENSE="as-is"
 SLOT="0"
-KEYWORDS="amd64 x86"
+KEYWORDS="~amd64"
 IUSE=""
 
-DEPEND=""
+DEPEND="
+    >=sys-libs/glibc-2.29
+"
 RDEPEND="${DEPEND}"
 BDEPEND=""
 
 PATCHES=(
-    "${FILESDIR}/${P}-fix-ca-path.patch"
-    "${FILESDIR}/${P}-lib64.patch"
+    "${FILESDIR}/insync-3-fix-ca-path.patch"
+    "${FILESDIR}/insync-3-lib64.patch"
 )
 
 src_unpack() {
     rpm_src_unpack
+
     mkdir -p "${S}"
     mv "${WORKDIR}"/usr "${S}"/
 }
@@ -41,6 +40,7 @@ src_install() {
     gunzip "${D}"/usr/share/man/man1/insync.1.gz
 
     echo "SEARCH_DIRS_MASK=\"/usr/lib*/insync\"" > "${T}/70-${PN}" || die
+
     insinto "/etc/revdep-rebuild" && doins "${T}/70-${PN}" || die
 }
 
