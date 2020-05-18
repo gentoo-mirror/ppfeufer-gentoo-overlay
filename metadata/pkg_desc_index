@@ -1,5 +1,5 @@
 app-admin/enpass 6.2.0.537 6.3.3.601 6.4.0.631 6.4.1.643: A cross-platform, complete password management solution.
-app-emulation/dxvk 1.6.1 1.6.1-r1: Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+app-emulation/dxvk 1.6.1 1.6.1-r1 1.7: Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 dev-nodejs/less 2.7.1: Leaner CSS
 dev-python/daemonize 2.5.0: Library for writing system daemons in Python
 dev-vcs/gitkraken 6.3.1 6.4.0 6.4.1 6.5.0 6.5.1 6.5.3 6.5.4 6.6.0: cross-platform Git client
