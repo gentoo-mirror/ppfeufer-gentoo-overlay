@@ -5,4 +5,4 @@ dev-nodejs/less 2.7.1: Leaner CSS
 dev-python/daemonize 2.5.0: Library for writing system daemons in Python
 dev-vcs/gitkraken 6.3.1 6.4.0 6.4.1 6.5.0 6.5.1 6.5.3 6.5.4 6.6.0 7.0.0 7.0.1: cross-platform Git client
 net-misc/insync 1.5.7 3.1.6.40808 3.1.7.40811 3.1.8.40816 3.1.9.40821 3.2.0.40831: Advanced cross-platform Google Drive and Microsoft OneDrive client
-www-client/brave-bin 1.10.93 1.11.72: Brave Web Browser
+www-client/brave-bin 1.10.93 1.10.95 1.10.97 1.11.72: Brave Web Browser
