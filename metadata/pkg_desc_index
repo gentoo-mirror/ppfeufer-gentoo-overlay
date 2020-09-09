@@ -1,4 +1,4 @@
-app-admin/enpass 6.4.1.643: A cross-platform, complete password management solution.
+app-admin/enpass 6.4.1.643 6.5.0.707: A cross-platform, complete password management solution.
 app-emulation/dxvk 1.6.1 1.6.1-r1 1.7 1.7.1: Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 app-emulation/dxvk-bin 1.6.1 1.7 1.7.1: Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 dev-nodejs/less 2.7.1: Leaner CSS
