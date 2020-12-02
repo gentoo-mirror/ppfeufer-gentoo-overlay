@@ -3,6 +3,6 @@ app-emulation/dxvk 1.6.1 1.6.1-r1 1.7 1.7.1 1.7.2: Vulkan-based implementation o
 app-emulation/dxvk-bin 1.6.1 1.7 1.7.1 1.7.2: Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 dev-nodejs/less 2.7.1: Leaner CSS
 dev-python/daemonize 2.5.0: Library for writing system daemons in Python
-dev-vcs/gitkraken 7.1.0 7.2.0 7.3.0 7.3.1 7.3.2 7.4.0: cross-platform Git client
+dev-vcs/gitkraken 7.1.0 7.2.0 7.3.0 7.3.1 7.3.2 7.4.0 7.4.1: cross-platform Git client
 net-misc/insync 1.5.7 3.1.6.40808 3.1.7.40811 3.1.8.40816 3.1.9.40821 3.2.0.40831 3.2.1.40839 3.2.2.40848 3.2.3.40853 3.2.5.40859 3.2.7.40868 3.2.8.40877 3.2.9.40883 3.3.0.40894 3.3.1.40899 3.3.2.40903: Advanced cross-platform Google Drive and Microsoft OneDrive client
 www-client/brave-bin 1.10.93 1.10.95 1.10.97 1.11.72: Brave Web Browser
