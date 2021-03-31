@@ -2,7 +2,7 @@ app-admin/enpass 6.4.1.643 6.5.0.707 6.5.1.723 6.6.0.775: A cross-platform, comp
 app-emulation/dxvk 1.7.2 1.7.3 1.8 1.8.1: Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 app-emulation/dxvk-bin 1.6.1 1.7 1.7.1 1.7.2 1.7.3 1.8 1.8.1: Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 dev-nodejs/less 2.7.1: Leaner CSS
-dev-vcs/github-desktop 2.6.1-r2 2.6.2-r1 2.6.3-r1 2.6.5-r1 2.6.6-r1: GitHub Desktop is an open source Electron-based GitHub app
+dev-vcs/github-desktop 2.6.1-r2 2.6.2-r1 2.6.3-r1 2.6.5-r1 2.6.6-r1 2.7.1-r1: GitHub Desktop is an open source Electron-based GitHub app
 dev-vcs/gitkraken 7.1.0 7.2.0 7.3.0 7.3.1 7.3.2 7.4.0 7.4.1 7.5.0 7.5.1 7.5.2 7.5.3: cross-platform Git client
 net-misc/insync 3.3.5.40925 3.3.6.40933 3.3.7.40937: Advanced cross-platform Google Drive and Microsoft OneDrive client
 www-client/brave-bin 1.10.93 1.10.95 1.10.97 1.11.72: Brave Web Browser
