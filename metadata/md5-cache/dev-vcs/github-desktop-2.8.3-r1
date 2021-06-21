@@ -10,5 +10,5 @@ LICENSE=GitHub
 RDEPEND=>=gnome-base/gconf-3.2.6-r4  >=x11-libs/libnotify-0.7.8 >=dev-libs/libappindicator-12.10.0-r301 >=x11-libs/libXtst-1.2.3-r1 >=dev-libs/nss-3.51 >=net-misc/curl-7.68.0 >=app-crypt/libsecret-0.18.8 dev-libs/openssl-compat:1.0.0 >=gnome-base/gnome-keyring-3.31.91-r1 alacritty? ( x11-terms/alacritty )
 SLOT=0
 SRC_URI=https://github.com/shiftkey/desktop/releases/download/release-2.8.3-linux1/GitHubDesktop-linux-2.8.3-linux1.deb
-_eclasses_=toolchain-funcs	7a9551c9a6680454019664620505375a	multilib	6f710a580aea2e8c7f5be70f8912ad43	unpacker	2eeba54233fa41bdb15dcddcb63fba3a	xdg-utils	ff2ff954e6b17929574eee4efc5152ba	xdg	c7ba313ea1eaf266f95cc6235f7d6a07
+_eclasses_=toolchain-funcs	e867df3870e8ff04a5b94f925be8b06a	multilib	f8d35c2432bb32c4f1e779c4287b31ec	unpacker	2eeba54233fa41bdb15dcddcb63fba3a	xdg-utils	ff2ff954e6b17929574eee4efc5152ba	xdg	c7ba313ea1eaf266f95cc6235f7d6a07
 _md5_=364787275712c0beb2384977e9477697
