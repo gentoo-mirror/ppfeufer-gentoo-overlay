@@ -10,5 +10,5 @@ LICENSE=SINEW-EULA
 RDEPEND=sys-process/lsof dev-libs/glib:2 media-libs/fontconfig media-libs/freetype:2 media-libs/mesa pulseaudio? ( media-sound/pulseaudio ) !pulseaudio? ( media-sound/apulse ) net-misc/curl net-print/cups sys-apps/dbus sys-apps/util-linux sys-libs/zlib x11-libs/gtk+:3 x11-libs/libICE x11-libs/libSM x11-libs/libX11 x11-libs/libxcb x11-libs/libXi x11-libs/libXrender x11-libs/libXScrnSaver x11-libs/pango
 SLOT=0
 SRC_URI=https://apt.enpass.io/pool/main/e/enpass/enpass_6.6.0.775_amd64.deb
-_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	unpacker	2eeba54233fa41bdb15dcddcb63fba3a	xdg-utils	27f9a2f19502b925ac117bd657aa2979	xdg	c7ba313ea1eaf266f95cc6235f7d6a07
+_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	unpacker	2eeba54233fa41bdb15dcddcb63fba3a	xdg-utils	27f9a2f19502b925ac117bd657aa2979	xdg	e73b9df80596ab8f9c542c01196dec23
 _md5_=14bc0c3e196a1078ff499b0cab8fcf02
