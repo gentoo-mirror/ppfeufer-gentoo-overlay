@@ -6,4 +6,4 @@ dev-libs/libdatrie 0.2.13: Double-Array Trie Library
 dev-libs/libthai 0.1.28: A a set of Thai language support routines
 dev-vcs/github-desktop 2.6.1-r2 2.6.2-r1 2.6.3-r1 2.6.5-r1 2.6.6-r1 2.7.1-r1 2.7.2-r1 2.8.0-r1 2.8.1-r1 2.8.1-r2 2.8.1-r3 2.8.2-r1 2.8.3-r1 2.9.0-r2 2.9.0-r3 2.9.0-r4 2.9.2-r1 2.9.3-r1 2.9.3-r2 2.9.3-r3 2.9.4-r1: GitHub Desktop is an open source Electron-based GitHub app
 dev-vcs/gitkraken 7.7.0 7.7.1 7.7.2 8.0.0 8.0.1 8.1.0 8.1.1: cross-platform Git client
-net-misc/insync 3.5.4.50130: Advanced cross-platform Dropbox, Google Drive and Microsoft OneDrive client
+net-misc/insync 3.5.4.50130 3.6.1.50206: Advanced cross-platform Dropbox, Google Drive and Microsoft OneDrive client
