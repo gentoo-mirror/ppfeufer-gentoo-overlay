@@ -10,5 +10,5 @@ LICENSE=GitHub
 RDEPEND=>=gnome-base/gconf-3.2.6-r4  >=x11-libs/libnotify-0.7.8 >=dev-libs/libappindicator-12.10.0-r301 >=x11-libs/libXtst-1.2.3-r1 >=dev-libs/nss-3.51 >=net-misc/curl-7.68.0 >=app-crypt/libsecret-0.18.8 dev-libs/openssl-compat:1.0.0 >=gnome-base/gnome-keyring-3.31.91-r1 alacritty? ( x11-terms/alacritty )
 SLOT=0
 SRC_URI=https://github.com/shiftkey/desktop/releases/download/release-2.6.5-linux1/GitHubDesktop-linux-2.6.5-linux1.deb
-_eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	4b66d835ec72e021e359bb81eacfe988	unpacker	928e1f35ef78ba9fc2b214e29c2b55a4	xdg-utils	4f29a8b760a594a212abe9c2ba957c31	xdg	6024fbc93167fad782e2032933654857
+_eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	8a0248f83ae77f945d376ff4a7953257	unpacker	928e1f35ef78ba9fc2b214e29c2b55a4	xdg-utils	4f29a8b760a594a212abe9c2ba957c31	xdg	6024fbc93167fad782e2032933654857
 _md5_=fe37d76bc71d0a23b76343f67c6a98be
