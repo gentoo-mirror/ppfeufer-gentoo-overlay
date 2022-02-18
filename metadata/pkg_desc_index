@@ -1,6 +1,6 @@
 app-admin/enpass 6.7.4.933: A cross-platform, complete password management solution.
-app-emulation/dxvk 1.7.2 1.7.3 1.8 1.8.1 1.9 1.9.1 1.9.2 1.9.3 1.9.4: Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
-app-emulation/dxvk-bin 1.6.1 1.7 1.7.1 1.7.2 1.7.3 1.8 1.8.1 1.9 1.9.1 1.9.2 1.9.3 1.9.4: Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+app-emulation/dxvk 1.9.4: Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+app-emulation/dxvk-bin 1.9.4: Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 dev-libs/libdatrie 0.2.13: Double-Array Trie Library
 dev-libs/libthai 0.1.28: A a set of Thai language support routines
 dev-vcs/github-desktop 2.9.4-r1 2.9.6-r1: GitHub Desktop is an open source Electron-based GitHub app
