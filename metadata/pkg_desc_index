@@ -9,5 +9,5 @@ games-util/pyfa 2.39.3: Python Fitting Assistant - a ship fitting application fo
 net-libs/ccrtp 2.1.2: GNU ccRTP - Implementation of the IETF real-time transport protocol
 net-misc/insync 3.5.4.50130 3.6.1.50206 3.7.0.50216 3.7.1.50305: Advanced cross-platform Dropbox, Google Drive and Microsoft OneDrive client
 net-voip/twinkle 1.10.2: Softphone for VoIP communcations using SIP protocol
-sys-boot/etcher-bin 1.7.3: Flash OS images to SD cards & USB drives, safely and easily.
+sys-boot/etcher-bin 1.7.3 1.7.6: Flash OS images to SD cards & USB drives, safely and easily.
 sys-boot/rpi-imager 1.7.1: Raspberry Pi Imaging Utility
