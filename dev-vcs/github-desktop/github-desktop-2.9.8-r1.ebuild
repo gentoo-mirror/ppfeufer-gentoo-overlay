@@ -7,7 +7,7 @@ inherit unpacker xdg
 
 DESCRIPTION="GitHub Desktop is an open source Electron-based GitHub app"
 HOMEPAGE="https://desktop.github.com/"
-SRC_URI="https://github.com/shiftkey/desktop/releases/download/release-2.9.4-linux1/GitHubDesktop-linux-2.9.4-linux1.deb"
+SRC_URI="https://github.com/shiftkey/desktop/releases/download/release-2.9.8-linux1/GitHubDesktop-linux-2.9.8-linux1.deb"
 
 LICENSE="MIT"
 SLOT="0"
