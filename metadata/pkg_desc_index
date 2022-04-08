@@ -7,7 +7,7 @@ dev-vcs/github-desktop 2.9.12-r2 2.9.12-r3 2.9.12-r4: GitHub Desktop is an open 
 dev-vcs/gitkraken 8.1.1 8.2.0 8.2.1 8.3.0 8.3.1 8.3.2 8.3.3: cross-platform Git client
 games-util/pyfa 2.39.3 2.40.0 2.41.0 2.42.0: Python Fitting Assistant - a ship fitting application for EVE Online
 net-libs/ccrtp 2.1.2: GNU ccRTP - Implementation of the IETF real-time transport protocol
-net-misc/insync 3.5.4.50130 3.6.1.50206 3.7.0.50216 3.7.1.50305 3.7.2.50314 3.7.3.50326: Advanced cross-platform Dropbox, Google Drive and Microsoft OneDrive client
+net-misc/insync 3.5.4.50130 3.6.1.50206 3.7.0.50216 3.7.1.50305 3.7.2.50314 3.7.3.50326 3.7.5.50350: Advanced cross-platform Dropbox, Google Drive and Microsoft OneDrive client
 net-voip/twinkle 1.10.2: Softphone for VoIP communcations using SIP protocol
 sys-boot/etcher-bin 1.7.3 1.7.6 1.7.7 1.7.8: Flash OS images to SD cards & USB drives, safely and easily.
 sys-boot/rpi-imager 1.7.1 1.7.2: Raspberry Pi Imaging Utility
