@@ -4,7 +4,7 @@ app-emulation/dxvk-bin 1.9.4 1.10 1.10.1: Vulkan-based implementation of D3D9, D
 dev-libs/libdatrie 0.2.13: Double-Array Trie Library
 dev-libs/libthai 0.1.28: A a set of Thai language support routines
 dev-vcs/github-desktop 2.9.12-r2 2.9.12-r3 2.9.12-r4: GitHub Desktop is an open source Electron-based GitHub app
-dev-vcs/gitkraken 8.1.1 8.2.0 8.2.1 8.3.0 8.3.1 8.3.2 8.3.3: cross-platform Git client
+dev-vcs/gitkraken 8.1.1 8.2.0 8.2.1 8.3.0 8.3.1 8.3.2 8.3.3 8.4.0: cross-platform Git client
 games-util/pyfa 2.39.3 2.40.0 2.41.0 2.42.0: Python Fitting Assistant - a ship fitting application for EVE Online
 net-libs/ccrtp 2.1.2: GNU ccRTP - Implementation of the IETF real-time transport protocol
 net-misc/insync 3.5.4.50130 3.6.1.50206 3.7.0.50216 3.7.1.50305 3.7.2.50314 3.7.3.50326 3.7.5.50350: Advanced cross-platform Dropbox, Google Drive and Microsoft OneDrive client
