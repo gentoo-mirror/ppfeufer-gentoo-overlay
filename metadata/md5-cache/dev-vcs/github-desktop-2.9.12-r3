@@ -10,5 +10,5 @@ LICENSE=MIT
 RDEPEND=>=gnome-base/gconf-3.2.6-r5 >=x11-libs/libnotify-0.7.8 >=dev-libs/libappindicator-12.10.0-r301 >=x11-libs/libXtst-1.2.3-r1 >=dev-libs/nss-3.51 >=net-misc/curl-7.68.0 >=app-crypt/libsecret-0.18.8 dev-libs/openssl-compat:1.0.0 gnome-base/gnome-keyring alacritty? ( x11-terms/alacritty )
 SLOT=0
 SRC_URI=https://github.com/shiftkey/desktop/releases/download/release-2.9.12-linux3/GitHubDesktop-linux-2.9.12-linux3.deb
-_eclasses_=toolchain-funcs	fd9cde67030b26e479eeadaced488253	multilib	4a33c9008e5ee30cb8840a3fdc24df2b	unpacker	697382d119fd3d195f110b7979184285	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	xdg	6024fbc93167fad782e2032933654857
+_eclasses_=toolchain-funcs	fd9cde67030b26e479eeadaced488253	multilib	4fbbbc98f236f1b43acd99476bc3cd85	unpacker	697382d119fd3d195f110b7979184285	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	xdg	6024fbc93167fad782e2032933654857
 _md5_=dd896fddb00d587490e12a5caf1e6170
