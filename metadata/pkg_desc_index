@@ -3,7 +3,7 @@ app-emulation/dxvk 1.9.4 1.10 1.10.1: Vulkan-based implementation of D3D9, D3D10
 app-emulation/dxvk-bin 1.9.4 1.10 1.10.1: Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 dev-libs/libdatrie 0.2.13: Double-Array Trie Library
 dev-libs/libthai 0.1.28: A a set of Thai language support routines
-dev-vcs/github-desktop 2.9.12-r2 2.9.12-r3 2.9.12-r4 2.9.14-r4 2.9.15-r1 3.0.0-r1 3.0.0-r2 3.0.1-r1: GitHub Desktop is an open source Electron-based GitHub app
+dev-vcs/github-desktop 3.0.0-r1 3.0.0-r2 3.0.1-r1 3.0.2-r1: GitHub Desktop is an open source Electron-based GitHub app
 dev-vcs/gitkraken 8.1.1 8.2.0 8.2.1 8.3.0 8.3.1 8.3.2 8.3.3 8.4.0 8.5.0 8.6.0: cross-platform Git client
 games-util/pyfa 2.43.0: Python Fitting Assistant - a ship fitting application for EVE Online
 net-misc/insync 3.7.6.50356 3.7.7.50360 3.7.9.50368: Advanced cross-platform Dropbox, Google Drive and Microsoft OneDrive client
