@@ -9,6 +9,6 @@ LICENSE=as-is
 RDEPEND=>=sys-libs/glibc-2.29 x11-misc/xdg-utils dev-libs/nss app-crypt/gnupg media-libs/libglvnd dev-qt/qtvirtualkeyboard dev-libs/wayland dev-libs/libthai
 RESTRICT=strip
 SLOT=0
-SRC_URI=http://s.insynchq.com/builds/insync_3.7.9.50368-buster_amd64.deb
+SRC_URI=http://s.insynchq.com/builds/insync_3.7.9.50368-bullseye_amd64.deb
 _eclasses_=desktop	22952d8f27cac191d75529d4c38e6bfa	toolchain-funcs	e9da88162e7a3c60376e80c2c2adcdfb	multilib	4fbbbc98f236f1b43acd99476bc3cd85	unpacker	697382d119fd3d195f110b7979184285	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	xdg	6024fbc93167fad782e2032933654857
-_md5_=dcf8d374b338522809f42af70ad8a423
+_md5_=3fbb8bb531bab31b5e45c2ad8e6f95cb
