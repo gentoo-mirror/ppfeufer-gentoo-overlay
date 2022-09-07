@@ -1,7 +1,7 @@
 app-admin/enpass 6.7.4.933 6.8.0.1059 6.8.1.1063: A cross-platform, complete password management solution.
 dev-libs/libdatrie 0.2.13: Double-Array Trie Library
 dev-libs/libthai 0.1.28: A a set of Thai language support routines
-dev-vcs/github-desktop 3.0.0-r1 3.0.0-r2 3.0.1-r1 3.0.2-r1 3.0.3-r1 3.0.5-r1: GitHub Desktop is an open source Electron-based GitHub app
+dev-vcs/github-desktop 3.0.0-r1 3.0.0-r2 3.0.1-r1 3.0.2-r1 3.0.3-r1 3.0.5-r1 3.0.6-r1: GitHub Desktop is an open source Electron-based GitHub app
 dev-vcs/gitkraken 8.1.1 8.2.0 8.2.1 8.3.0 8.3.1 8.3.2 8.3.3 8.4.0 8.5.0 8.6.0 8.7.0 8.8.0: cross-platform Git client
 games-util/pyfa 2.43.0: Python Fitting Assistant - a ship fitting application for EVE Online
 net-misc/insync 3.7.11.50381: Advanced cross-platform Dropbox, Google Drive and Microsoft OneDrive client
