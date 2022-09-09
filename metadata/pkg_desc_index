@@ -6,4 +6,4 @@ dev-vcs/gitkraken 8.1.1 8.2.0 8.2.1 8.3.0 8.3.1 8.3.2 8.3.3 8.4.0 8.5.0 8.6.0 8.
 games-util/pyfa 2.43.0: Python Fitting Assistant - a ship fitting application for EVE Online
 net-misc/insync 3.7.11.50381: Advanced cross-platform Dropbox, Google Drive and Microsoft OneDrive client
 sys-boot/etcher-bin 1.7.3 1.7.6 1.7.7 1.7.8 1.7.9: Flash OS images to SD cards & USB drives, safely and easily.
-sys-boot/rpi-imager 1.7.1 1.7.2: Raspberry Pi Imaging Utility
+sys-boot/rpi-imager 1.7.1 1.7.2 1.7.3: Raspberry Pi Imaging Utility
