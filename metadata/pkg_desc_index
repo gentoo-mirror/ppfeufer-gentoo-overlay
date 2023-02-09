@@ -2,7 +2,7 @@ app-admin/enpass 6.7.4.933 6.8.0.1059 6.8.1.1063 6.8.3.1153 6.8.5.1173: A cross-
 dev-libs/libdatrie 0.2.13: Double-Array Trie Library
 dev-libs/libthai 0.1.28 0.1.29: A a set of Thai language support routines
 dev-vcs/github-desktop 3.0.0-r1 3.0.0-r2 3.0.1-r1 3.0.2-r1 3.0.3-r1 3.0.5-r1 3.0.6-r1 3.1.1-r1: GitHub Desktop is an open source Electron-based GitHub app
-dev-vcs/gitkraken 8.10.2 8.10.3 9.0.0 9.0.1: cross-platform Git client
+dev-vcs/gitkraken 8.10.2 8.10.3 9.0.0 9.0.1 9.1.0: cross-platform Git client
 games-util/pyfa 2.43.0: Python Fitting Assistant - a ship fitting application for EVE Online
 net-misc/insync 3.8.3.50473-r1 3.8.4.50481: Advanced cross-platform Dropbox, Google Drive and Microsoft OneDrive client
 sys-boot/rpi-imager 1.7.1 1.7.2 1.7.3: Raspberry Pi Imaging Utility
