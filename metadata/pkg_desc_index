@@ -1,4 +1,4 @@
-app-admin/enpass 6.8.5.1173: A cross-platform, complete password management solution.
+app-admin/enpass 6.8.5.1173 6.8.5.1173-r1: A cross-platform, complete password management solution.
 dev-libs/libdatrie 0.2.13: Double-Array Trie Library
 dev-libs/libthai 0.1.28 0.1.29: A a set of Thai language support routines
 dev-vcs/github-desktop 3.2.0-r2: GitHub Desktop is an open source Electron-based GitHub app
