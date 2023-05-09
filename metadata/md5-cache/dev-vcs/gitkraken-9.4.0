@@ -1,0 +1,14 @@
+DEFINED_PHASES=install postinst postrm preinst unpack
+DESCRIPTION=cross-platform Git client
+EAPI=8
+HOMEPAGE=https://www.gitkraken.com
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=unpacker xdg
+KEYWORDS=~amd64
+LICENSE=EULA
+RDEPEND=>=net-print/cups-1.7.0 >=x11-libs/cairo-1.6.0 >=sys-libs/glibc-2.17 >=media-libs/fontconfig-2.11 media-sound/alsa-utils >=dev-libs/atk-2.5.3 >=app-accessibility/at-spi2-atk-2.9.90 >=sys-apps/dbus-1.9.14 >=x11-libs/libdrm-2.4.38 >=dev-libs/expat-2.0.1 >=x11-libs/gtk+-3.9.10 >=dev-libs/nss-3.22 >=x11-libs/pango-1.14.0 >=x11-libs/libX11-1.4.99.1 >=x11-libs/libxcb-1.9.2 >=x11-libs/libXcomposite-0.3 >=x11-libs/libXdamage-1.1 x11-libs/libXext x11-libs/libXfixes >=x11-libs/libxkbcommon-0.5.0 x11-libs/libXrandr dev-libs/libgcrypt x11-libs/libnotify x11-libs/libXtst x11-libs/libxkbfile dev-libs/glib x11-misc/xdg-utils
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://release.axocdn.com/linux/GitKraken-v9.4.0.deb
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	d1408425c7c4a7669b9b17735404b693	unpacker	aa6a4e924009232d8b78b31e932c30b5	xdg-utils	baea6080dd821f5562d715887954c9d3	xdg	4a14c5c24f121e7da66e5aab4a168c6e
+_md5_=dba2644c29691fc5f07860dd2f07306b
