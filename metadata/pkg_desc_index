@@ -2,7 +2,7 @@ app-admin/enpass 6.8.5.1173 6.8.5.1173-r1 6.9.0.1467: A cross-platform, complete
 dev-libs/libdatrie 0.2.13: Double-Array Trie Library
 dev-libs/libthai 0.1.28 0.1.29: A a set of Thai language support routines
 dev-vcs/github-desktop 3.2.0-r2 3.2.5-r1 3.2.7-r1 3.2.7-r2 3.3.1-r1: GitHub Desktop is an open source Electron-based GitHub app
-dev-vcs/gitkraken 9.5.0 9.5.1 9.6.0 9.6.1 9.7.0 9.7.1 9.8.0: cross-platform Git client
+dev-vcs/gitkraken 9.5.0 9.5.1 9.6.0 9.6.1 9.7.0 9.7.1 9.8.0 9.8.1: cross-platform Git client
 net-misc/insync 3.8.4.50481-r2 3.8.5.50499 3.8.6.50504: Advanced cross-platform Dropbox, Google Drive and Microsoft OneDrive client
 sys-boot/rpi-imager 1.7.1 1.7.2 1.7.3 1.7.4 1.7.4.1 1.7.5: Raspberry Pi Imaging Utility
 sys-boot/ventoy-bin 1.0.89 1.0.91 1.0.94 1.0.95: A new multiboot USB solution
