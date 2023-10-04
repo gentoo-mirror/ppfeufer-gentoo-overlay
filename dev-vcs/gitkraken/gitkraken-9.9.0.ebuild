@@ -42,6 +42,7 @@ RDEPEND="
 	x11-libs/libxkbfile
 	dev-libs/glib
 	x11-misc/xdg-utils
+	sys-fs/e2fsprogs
 "
 
 #TODO: ???
