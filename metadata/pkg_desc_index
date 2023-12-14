@@ -2,7 +2,7 @@ app-admin/enpass 6.8.5.1173 6.8.5.1173-r1 6.9.0.1467 6.9.1.1511 6.9.2.1563: A cr
 dev-libs/libdatrie 0.2.13: Double-Array Trie Library
 dev-libs/libthai 0.1.28 0.1.29: A a set of Thai language support routines
 dev-vcs/github-desktop 3.3.3_rc2 3.3.5_rc2: Linux fork of GitHub Desktop
-dev-vcs/gitkraken 9.9.2 9.10.0 9.11.0 9.11.0-r1: cross-platform Git client
+dev-vcs/gitkraken 9.9.2 9.10.0 9.11.0 9.11.0-r1 9.11.0-r2: cross-platform Git client
 net-misc/insync 3.8.6.50504 3.8.6.50504-r1: Advanced cross-platform Dropbox, Google Drive and Microsoft OneDrive client
 sys-boot/rpi-imager 1.7.1 1.7.2 1.7.3 1.7.4 1.7.4.1 1.7.5 1.8.1 1.8.3: Raspberry Pi Imaging Utility
 sys-boot/ventoy-bin 1.0.89 1.0.91 1.0.94 1.0.95 1.0.96: A new multiboot USB solution
