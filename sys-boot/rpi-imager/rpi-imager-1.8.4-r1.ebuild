@@ -30,8 +30,11 @@ RDEPEND="
 	dev-qt/qtquickcontrols2:5
 	dev-qt/qtwidgets:5
 	dev-qt/qtxml:5
+	dev-qt/qtsvg:5
 	net-misc/curl
+	net-libs/gnutls
 	sys-fs/udisks:2
+	dev-build/cmake
 "
 DEPEND="
 	${RDEPEND}
