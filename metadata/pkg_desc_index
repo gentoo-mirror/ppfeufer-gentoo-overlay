@@ -1,7 +1,7 @@
 app-admin/enpass 6.8.5.1173 6.8.5.1173-r1 6.9.0.1467 6.9.1.1511 6.9.2.1563: A cross-platform, complete password management solution.
 dev-libs/libdatrie 0.2.13: Double-Array Trie Library
 dev-libs/libthai 0.1.28 0.1.29: A a set of Thai language support routines
-dev-vcs/github-desktop 3.3.6_rc2 3.3.6_rc3 3.3.8_rc2 3.3.10_rc1: Linux fork of GitHub Desktop
+dev-vcs/github-desktop 3.3.10_rc1 3.3.12_rc2: Linux fork of GitHub Desktop
 dev-vcs/gitkraken 9.9.2 9.10.0 9.11.0 9.11.0-r1 9.11.0-r2 9.11.1 9.12.0 9.13.0: cross-platform Git client
 net-misc/insync 3.8.6.50504 3.8.6.50504-r1 3.8.7.50507 3.8.7.50507-r1: Advanced cross-platform Dropbox, Google Drive and Microsoft OneDrive client
 sys-boot/rpi-imager 1.8.4-r1 1.8.5: Raspberry Pi Imaging Utility
