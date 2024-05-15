@@ -43,6 +43,9 @@ RDEPEND="
 	dev-libs/glib
 	x11-misc/xdg-utils
 	sys-fs/e2fsprogs
+	dev-vcs/git
+	app-crypt/mit-krb5
+	net-misc/curl
 "
 
 PATCHES=(
@@ -61,7 +64,10 @@ src_install() {
 	mv "${S}"/usr/share/doc/gitkraken "${S}"/usr/share/doc/"${PF}"
 
 	rm -rf "${S}"/usr/share/gitkraken/resources/app.asar.unpacked/node_modules/@axosoft/nodegit/build/Release/nodegit-ubuntu-18-ssl-1.0.0.node
+	rm -rf "${S}"/usr/share/gitkraken/resources/app.asar.unpacked/node_modules/@axosoft/nodegit/build/Release/nodegit-ubuntu-18-ssl-1.1.0.node
 	rm -rf "${S}"/usr/share/gitkraken/resources/app.asar.unpacked/node_modules/@axosoft/nodegit/build/Release/nodegit-ubuntu-18-ssl-10.node
+	rm -rf "${S}"/usr/share/gitkraken/resources/app.asar.unpacked/node_modules/@axosoft/nodegit/build/Release/nodegit-ubuntu-18.node
+	rm -rf "${S}"/usr/share/gitkraken/resources/app.asar.unpacked/node_modules/@axosoft/nodegit/build/Release/nodegit.node
 	rm -rf "${S}"/usr/share/gitkraken/resources/app.asar.unpacked/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.abi108.musl.node
 	rm -rf "${S}"/usr/share/gitkraken/resources/app.asar.unpacked/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.napi.musl.node
 
