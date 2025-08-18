@@ -6,4 +6,4 @@ dev-vcs/gitkraken 11.0.0 11.1.0 11.1.1 11.2.0 11.2.1 11.3.0: cross-platform Git 
 net-misc/insync 3.9.2.60014 3.9.2.60014-r1 3.9.4.60020 3.9.4.60020-r1 3.9.4.60020-r2 3.9.4.60020-r3 3.9.4.60020-r4 3.9.5.60024 3.9.6.60027 3.9.6.60027-r1: Advanced cross-platform Dropbox, Google Drive and Microsoft OneDrive client
 sys-boot/rpi-imager 1.8.4-r1 1.8.5 1.8.5-r1: Raspberry Pi Imaging Utility
 sys-boot/usbimager 1.0.10: Minimal GUI for writing compressed disk images to USB drives
-sys-boot/ventoy-bin 1.0.96 1.0.97 1.0.98 1.0.99 1.1.00 1.1.01 1.1.02 1.1.05 1.1.06: A new multiboot USB solution
+sys-boot/ventoy-bin 1.0.96 1.0.97 1.0.98 1.0.99 1.1.00 1.1.01 1.1.02 1.1.05 1.1.06 1.1.07: A new multiboot USB solution
